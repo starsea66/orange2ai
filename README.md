@@ -10,8 +10,8 @@ and other general industrial machinery productions, such as pumps and compressor
 Make machinery safely, reliably, and cost-effectively. 
 Deliver values to the world.
 
-## Creative Archive 
-Website under construction.
+## News Centre
+Under construction.
 
 ## Contact US
 
