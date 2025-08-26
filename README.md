@@ -3,7 +3,7 @@
 <img src="https://orangesai.com/icon.png" alt="avatar" width="100" height="100">
 
 
-## About Me
+## About US
 
 AI Research: at a AI startup company.
 
@@ -22,4 +22,4 @@ Newsletter [quail.ink/orange](https://quail.ink/orange)
 
 ## Contact US
 
-Email <a href="mailto:jerryjhendley@gmail.com">jerryjhendley@gmail.com</a>
+Email <a href="mailto:jerryjhendley@gmail.com">jerryjhendley@gmail.com </a>
