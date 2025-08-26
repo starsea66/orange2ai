@@ -8,8 +8,6 @@
 G. Denver is devoted to the design, service, trade of hydraulic machinery 
 and other general industrial machinery productions, such as pumps and compressors.
 
-Make machinery safely, reliably, and cost-effectively. 
-
 Deliver values to the world.
 
 
