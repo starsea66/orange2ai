@@ -15,5 +15,5 @@ Under construction.
 
 ## Contact US
 
-Email <a href="mailto:jerryjhendley@gmail.com">
+Email <a href="mailto:jerryjhendley@gmail.com">jerryjhendley@gmail.com
 </a>
