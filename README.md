@@ -1,4 +1,4 @@
-# Orange.AI
+<img width="330" height="48" alt="image" src="https://github.com/user-attachments/assets/2470eaf0-ca26-4f09-9794-7483a3d1843c" /># Orange.AI
 
 <img src="https://orangesai.com/icon.png" alt="avatar" width="100" height="100">
 
@@ -20,6 +20,6 @@ Twitter [@oran_ge](https://twitter.com/oran_ge)
 Newsletter [quail.ink/orange](https://quail.ink/orange)
 
 
-## Contact Me
+## Contact US
 
-Email <a href="mailto:otiron@gmail.com">otiron@gmail.com</a>
+Email <a href="mailto:jerryjhendley@gmail.com">jerryjhendley@gmail.com</a>
